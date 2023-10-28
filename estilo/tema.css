@@ -1,0 +1,9 @@
+body {
+color: rgb(0, 0, 0);
+background-color:rgba(110, 7, 88, 0.74) ;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container{
+padding: 0px 50px;
+}
